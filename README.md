@@ -129,7 +129,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ManasLalwani/ManasLalwani/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ManasLalwani/ManasLalwani/blob/output/github-contribution-grid-snake.gif)
 
 ###
