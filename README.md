@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="200" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
+
+###
+
 <p align="left">- 🚀 I'm an Engineering student passionate about AI, ML, and blockchain.<br>- 🔭 I’m working on an AI project<br>- 📚 I'm currently mastering DSA<br>- ⚡ I'm open to collaborating on ML & Web Dev Projects<br>- 🏎️ Formula 1 aficionado, connecting the dots between speed and code optimization.<br>- 🌆 Based in Mumbai, infusing its vibrant energy into everything I do.<br>- 📫 You can also reach out to me at manas12256@gmail.com</p>
 
 ###
@@ -120,14 +124,12 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ManasLalwani.ManasLalwani&"  />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManasLalwani.ManasLalwani&"  />
+</div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ManasLalwani/ManasLalwani/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
 
 ###
