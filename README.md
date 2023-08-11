@@ -128,7 +128,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ManasLalwani.ManasLalwani&"  />
 </div>
 
-###
-![snake gif](https://github.com/ManasLalwani/ManasLalwani/blob/output/github-contribution-grid-snake.gif)
 
 ###
